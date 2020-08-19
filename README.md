@@ -1,4 +1,4 @@
-### 这里有彩蛋 👋 ？
+### 快乐得如此勉强，为什么不去安心悲伤 🙍？
 
 <!--
 **dreamlu/dreamlu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
