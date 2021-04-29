@@ -1,4 +1,4 @@
-### 快乐得如此勉强，为什么不去安心悲伤
+### 话说,合肥目前用gopher多么,准备回去浪了
 
 <!--
 **dreamlu/dreamlu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
