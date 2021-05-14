@@ -1,4 +1,10 @@
-### 话说,准备回合肥老家去了
+- 🔭 I’m currently working on myself
+- 🌱 I’m currently learning k8s
+- 👯 I’m looking to work on hefei
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about golang
+- 📫 How to reach me: 3147460271@qq.com
+- 😄 Pronouns: hahahahahahahaaa~
 
 <!--
 **dreamlu/dreamlu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
