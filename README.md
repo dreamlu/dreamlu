@@ -1,6 +1,6 @@
 - 💠 主: 后端(go or java ??) 次: flutter
 - 🔭 我正在学习中
-- 🌱 我开发的仍然在线的项目: 优惠蜂小程序+优惠蜂app(vivo appstore)、微信小程序：苏合集市、优宜定、10叶...,h5：考培侠
+- 🌱 我开发过的项目: 微信小程序：优惠蜂、苏合集市、优宜定、10叶...,h5：考培侠,app:梦阅、通信工程、优惠蜂...
 - 💮 我开发的兴趣之作  
   1.💙 [gt业务脚手架](https://github.com/dreamlu/gt)  
   2.💞 [w2socks代理vpn](https://github.com/dreamlu/w2socks)  
